@@ -13,13 +13,13 @@
 		"test:watch": "bun test --watch"
 	},
 	"dependencies": {
-		"hono": "^4.11.7",
-		"zod": "^4.3.6"
+		"hono": "^4.12.18",
+		"zod": "^4.4.3"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.3.13",
+		"@biomejs/biome": "^2.4.15",
 		"@types/bun": "latest",
-		"lefthook": "^2.0.16",
-		"typescript": "^6"
+		"lefthook": "^2.1.6",
+		"typescript": "^6.0.3"
 	}
 }
