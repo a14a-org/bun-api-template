@@ -17,9 +17,9 @@
 		"zod": "^4.4.3"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.4.15",
+		"@biomejs/biome": "^2.5.2",
 		"@types/bun": "latest",
-		"lefthook": "^2.1.8",
+		"lefthook": "^2.1.9",
 		"typescript": "^6.0.3"
 	}
 }
