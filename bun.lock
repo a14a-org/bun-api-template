@@ -5,7 +5,7 @@
     "": {
       "name": "bun-api-template",
       "dependencies": {
-        "hono": "^4.12.33",
+        "hono": "^4.12.34",
         "zod": "^4.4.3",
       },
       "devDependencies": {
