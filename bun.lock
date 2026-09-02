@@ -6,7 +6,7 @@
       "name": "bun-api-template",
       "dependencies": {
         "hono": "^4.13.5",
-        "zod": "^4.5.2",
+        "zod": "^4.5.4",
       },
       "devDependencies": {
         "@biomejs/biome": "^2.5.2",
