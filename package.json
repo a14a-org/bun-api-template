@@ -13,8 +13,8 @@
 		"test:watch": "bun test --watch"
 	},
 	"dependencies": {
-		"hono": "^4.13.7",
-		"zod": "^4.6.4"
+		"hono": "^4.13.8",
+		"zod": "^4.6.5"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.5.2",
